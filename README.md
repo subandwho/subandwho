@@ -11,8 +11,7 @@ While learning the traits of modern business.
 ## 🤔 I am currently learning 
     1.R 2.Tableau 3.MongoDB
 
-## 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/subandhu-agravanshi-759401179/) 
-      <subandhu333@gmail.com>
+## 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/subandhu-agravanshi-759401179/)  Email me: <subandhu333@gmail.com>
 
 ## 🔭 I’m currently working on Implementation of Machine Learning in CyberSecurity and Data Visualisation.
 <!--
