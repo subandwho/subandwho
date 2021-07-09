@@ -7,9 +7,9 @@ Intrigued by tech innovations that have the ability to reshape the FinTech world
 Literature| Philosophy| International Relations|
 While learning the traits of modern business. 
 
-## 🌱 Skills: Python SQL Data Analytics Machine Learning
+## 🌱 Skills: Python SQL Deep Learning Machine Learning Tensorflow
 ## 🤔 I am currently learning 
-    1.R 2.Tableau 3.MongoDB
+    Pytorch
 
 ## 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/subandhu-agravanshi-759401179/)  Email me: <subandhu333@gmail.com>
 
